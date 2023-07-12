@@ -4,6 +4,8 @@
 
 > collection of typescript examples for deno
 
+![](assets/deno-example.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 
